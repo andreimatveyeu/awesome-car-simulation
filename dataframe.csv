@@ -3,27 +3,66 @@ CARLA,Open-source simulator for autonomous driving research with Python API,Simu
 SUMO,Open-source microscopic traffic simulation with Python (TraCI) interface,Simulation Platforms,,https://github.com/eclipse-sumo/sumo
 Project Chrono,Multi-physics simulation engine with vehicle dynamics and Python bindings,Simulation Platforms,,https://github.com/projectchrono/chrono
 BeamNGpy,Official Python API for BeamNG.tech vehicle simulation,Simulation Platforms,,https://github.com/BeamNG/BeamNGpy
-VDrift,Open-source driving simulation with drift racing focus,Simulation Platforms,,https://github.com/VDrift/vdrift
 fastest-lap,Vehicle dynamics simulator with optimal laptime computation and Python API,Simulation Platforms,,https://github.com/juanmanzanero/fastest-lap
 Open-Car-Dynamics,C++ multibody vehicle dynamics simulation validated on autonomous racecars,Simulation Platforms,,https://github.com/TUMFTM/Open-Car-Dynamics
 MVSim,Lightweight vehicle and robot simulator with C++ and Python API,Simulation Platforms,,https://github.com/MRPT/mvsim
+sim_vehicle_dynamics,TUM Roborace vehicle dynamics simulation for autonomous racing,Simulation Platforms,,https://github.com/TUMFTM/sim_vehicle_dynamics
+openxc-vehicle-simulator,Vehicle simulator with Python web server and dynamics model,Simulation Platforms,,https://github.com/openxc/openxc-vehicle-simulator
+PythonVehicleSimulator,Marine and vehicle simulation with Python for AUVs USVs and ships,Simulation Platforms,,https://github.com/cybergalactic/PythonVehicleSimulator
+VDrift,Open-source driving simulation with drift racing focus,Open Source Racing Games,,https://github.com/VDrift/vdrift
+TORCS,The Open Racing Car Simulator for AI research and gameplay,Open Source Racing Games,,https://github.com/jeremybennett/torcs
+Speed Dreams,Fork of TORCS with improved graphics and physics,Open Source Racing Games,,https://sourceforge.net/projects/speed-dreams/
+SuperTuxKart,Free open-source kart racing game with mascots of OSS projects,Open Source Racing Games,,https://github.com/supertuxkart/stk-code
+Rigs of Rods,Soft-body physics simulator for vehicles,Open Source Racing Games,,https://github.com/RigsOfRods/rigs-of-rods
+racing-game,Open source 3D racing game built with React Three Fiber,Open Source Racing Games,,https://github.com/pmndrs/racing-game
+Stunt Rally,3D racing game with track editor based on VDrift and OGRE,Open Source Racing Games,,https://github.com/stuntrally/stuntrally
+Trigger Rally,Rally car racing game with 3D terrain,Open Source Racing Games,,https://sourceforge.net/projects/trigger-rally/
+YORG,Yorg's an Open Racing Game using Panda3D,Open Source Racing Games,,https://github.com/cflavio/yorg
 FastF1,Python package for Formula 1 timing data telemetry and analysis,Telemetry & Data Analysis,Formula 1,https://github.com/theOehrly/Fast-F1
 f1-telemetry,F1 game telemetry collection and visualization with InfluxDB,Telemetry & Data Analysis,Formula 1,https://github.com/P403n1x87/f1-telemetry
 formula1-telemetry-tool,GUI application for F1 telemetry analysis using FastF1,Telemetry & Data Analysis,Formula 1,https://github.com/hynesconnor/formula1-telemetry-tool
+f1-race-replay,Interactive Formula 1 race visualization and data analysis tool,Telemetry & Data Analysis,Formula 1,https://github.com/IAmTomShaw/f1-race-replay
+f1-24-telemetry,Python telemetry implementation for EA F1 24 game,Telemetry & Data Analysis,Formula 1,https://github.com/xavierdubuc/f1-24-telemetry
 TinyPedal,Free and open source telemetry overlay for rFactor 2 and LMU,Telemetry & Data Analysis,Multi-Sim,https://github.com/TinyPedal/TinyPedal
 ldparser,Python parser for MoTeC ld telemetry files from ACC and other sims,Telemetry & Data Analysis,Multi-Sim,https://github.com/gotzl/ldparser
 sim-to-motec,Convert sim telemetry (GT7 and others) to MoTeC i2 log files,Telemetry & Data Analysis,Multi-Sim,https://github.com/GeekyDeaks/sim-to-motec
+b4mad-racing,Community-driven sim racing data collection and analysis platform,Telemetry & Data Analysis,Multi-Sim,https://github.com/b4mad/racing
+TrackDataAnalysis,GUI for analyzing AiM MoTeC and RaceCapture data logs,Telemetry & Data Analysis,Multi-Sim,https://github.com/racer-coder/TrackDataAnalysis
+Laptime-tracker,Self-hosted web application to track laptimes in racing games,Telemetry & Data Analysis,Multi-Sim,https://github.com/MarcelKaemper/Laptime-tracker
 pyirsdk,Python 3 implementation of iRacing SDK for telemetry and control,Telemetry & Data Analysis,iRacing,https://github.com/kutu/pyirsdk
+iracingdataapi,Python wrapper for iRacing General Data API,Telemetry & Data Analysis,iRacing,https://github.com/jasondilworth56/iracingdataapi
+iracing-client,Python client library for iRacing Data API,Telemetry & Data Analysis,iRacing,https://github.com/tegataiprime/iracing-client
+ir_webstats,iRacing Python client for drivers and series stats,Telemetry & Data Analysis,iRacing,https://github.com/jeysonmc/ir_webstats
+iRacing-Telemetry-Overlay,Python overlay for iRacing telemetry with throttle/brake graph,Telemetry & Data Analysis,iRacing,https://github.com/MikeRicketts/iRacing-Telemetry-Overlay
+rah-iracing-overlay,Open source Python overlay for iRacing telemetry,Telemetry & Data Analysis,iRacing,https://github.com/RaulArcos/rah-iracing-overlay
 gt7dashboard,Live telemetry dashboard for Gran Turismo 7,Telemetry & Data Analysis,Gran Turismo,https://github.com/snipem/gt7dashboard
 gt-telem,Python library for GT6/GTS/GT7 telemetry on PlayStation,Telemetry & Data Analysis,Gran Turismo,https://github.com/RaceCrewAI/gt-telem
+gt7telemetry,Python script to access and dump GT7 telemetry data,Telemetry & Data Analysis,Gran Turismo,https://github.com/Bornhall/gt7telemetry
 dr2_logger,Logging and analysis tool for car setups in Dirt Rally 1 and 2,Telemetry & Data Analysis,Dirt Rally,https://github.com/ErlerPhilipp/dr2_logger
+dirt-rally-time-recorder,Stage time tracker and browser for DiRT Rally 1 and 2,Telemetry & Data Analysis,Dirt Rally,https://github.com/soong-construction/dirt-rally-time-recorder
+DirtRallyTelemetry,Python telemetry HUD and tools for Dirt Rally,Telemetry & Data Analysis,Dirt Rally,https://github.com/NaiveWang/DirtRallyTelemetry
 pyRfactor2SharedMemory,Python library for accessing rFactor 2 shared memory telemetry,Telemetry & Data Analysis,rFactor,https://github.com/TonyWhitley/pyRfactor2SharedMemory
 rF2SharedMemoryMapPlugin,Complete rFactor 2 internals shared memory plugin,Telemetry & Data Analysis,rFactor,https://github.com/TheIronWolfModding/rF2SharedMemoryMapPlugin
-b4mad-racing,Community-driven sim racing data collection and analysis platform,Telemetry & Data Analysis,Multi-Sim,https://github.com/b4mad/racing
+pcars2,Python client for Project CARS 2 UDP data stream,Telemetry & Data Analysis,Project Cars,https://github.com/jkowa/pcars2
+pcars2-telemetry-browsing,Web server for browsing Project Cars 2 telemetry,Telemetry & Data Analysis,Project Cars,https://github.com/nabezokodaikon/pcars2-telemetry-browsing
+CREST2-AMS2,REST API for Automobilista 2 shared memory data,Telemetry & Data Analysis,Automobilista,https://github.com/viper4gh/CREST2-AMS2
+AMS2SharedMemoryNet,.NET library for Automobilista 2 telemetry from shared memory,Telemetry & Data Analysis,Automobilista,https://github.com/Domaslau/AMS2SharedMemoryNet
+Automobilista-2-Auto-Director,Auto director for AMS2 using UDP or shared memory in Python,Telemetry & Data Analysis,Automobilista,https://github.com/RangeyRover/Automobilista-2-Auto-Director
+r3e-api,Official RaceRoom Racing Experience shared memory API sample,Telemetry & Data Analysis,RaceRoom,https://github.com/sector3studios/r3e-api
+r3e-spectator-overlay,RaceRoom Racing Experience broadcast web overlay,Telemetry & Data Analysis,RaceRoom,https://github.com/sector3studios/r3e-spectator-overlay
+forza_motorsport,Python utilities for Forza Motorsport and Horizon data streams,Telemetry & Data Analysis,Forza,https://github.com/nettrom/forza_motorsport
+forza-horizon-telemetry,Collect store and display telemetry from Forza Horizon,Telemetry & Data Analysis,Forza,https://github.com/fabiomix/forza-horizon-telemetry
+Forza-data-tools,Go tools for Forza data out feature,Telemetry & Data Analysis,Forza,https://github.com/richstokes/Forza-data-tools
+scs-sdk-plugin,ETS2 and ATS SDK plugin with telemetry via shared memory,Telemetry & Data Analysis,Truck Simulator,https://github.com/RenCloud/scs-sdk-plugin
+ets2-sdk-plugin,Euro Truck Simulator 2 telemetry plugin with C# demo,Telemetry & Data Analysis,Truck Simulator,https://github.com/nlhans/ets2-sdk-plugin
+TruckSim-Telemetry,Node.js telemetry data and events for ETS2 and ATS,Telemetry & Data Analysis,Truck Simulator,https://github.com/kniffen/TruckSim-Telemetry
+visualising-wrc-telemetry-data,Visualizing WRC telemetry data with R,Telemetry & Data Analysis,WRC Rally,https://github.com/RallyDataJunkie/visualising-wrc-telemetry-data
 Lovely-Dashboard,Feature-packed SimHub dashboard and stream overlay,Telemetry & Data Analysis,SimHub,https://github.com/Lovely-Sim-Racing/lovely-dashboard
 bo2-official-overlays,Collection of SimHub overlays for iRacing by benofficial2,Telemetry & Data Analysis,SimHub,https://github.com/fixfactory/bo2-official-overlays
+KLPlugins.RaceEngineer,SimHub plugin for tyre pressures fuel and race strategy,Telemetry & Data Analysis,SimHub,https://github.com/kaiusl/KLPlugins.RaceEngineer
 f1tenth_gym,F1TENTH autonomous racing simulation environment,Autonomous Racing,,https://github.com/f1tenth/f1tenth_gym
 f1tenth_benchmarks,Benchmark implementations of F1Tenth autonomous racing algorithms,Autonomous Racing,,https://github.com/BDEvan5/f1tenth_benchmarks
+f1tenth_drl,Deep reinforcement learning for F1Tenth racing,Autonomous Racing,,https://github.com/BDEvan5/f1tenth_drl
 f1tenth_racetracks,Maps from 20+ real F1/DTM race tracks for F1TENTH simulation,Autonomous Racing,,https://github.com/f1tenth/f1tenth_racetracks
 global_racetrajectory_optimization,Algorithms for computing optimal racing lines,Autonomous Racing,,https://github.com/TUMFTM/global_racetrajectory_optimization
 gym_torcs,OpenAI Gym-like reinforcement learning environment for TORCS,Autonomous Racing,,https://github.com/ugo-nama-kun/gym_torcs
@@ -32,21 +71,136 @@ MultiAgentTORCS,Multi-agent TORCS for developing autonomous driving algorithms,A
 Carla-Dataset-Generator,Generate training datasets for autonomous driving from CARLA,Autonomous Racing,,https://github.com/Daniel-ChenJH/Carla-Dataset-Generator
 DriveLM,Driving with Graph Visual Question Answering (ECCV 2024),Autonomous Racing,,https://github.com/OpenDriveLab/DriveLM
 sumo-rl,Reinforcement learning environments for traffic signal control with SUMO,Autonomous Racing,,https://github.com/LucasAlegre/sumo-rl
+BeamNG.gym,Reinforcement learning environment for BeamNG.tech,Autonomous Racing,,https://github.com/BeamNG/BeamNG.gym
+LaneDetection_End2End,End-to-end lane detection for self-driving cars (ICCV 2019),Autonomous Racing,,https://github.com/wvangansbeke/LaneDetection_End2End
+Lane-Detection-for-Autonomous-Cars,Lane detection module using C++ and OpenCV,Autonomous Racing,,https://github.com/MichiMaestre/Lane-Detection-for-Autonomous-Cars
+ROS2-Self-Driving-Car-AI-using-OpenCV,ROS2 self driving car with deep learning and OpenCV,Autonomous Racing,,https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV
+AI-self-driving-race-car-Deep-Reinforcement-Learning,Deep Q learning for OpenAI CarRacing environment,AI & Machine Learning,,https://github.com/jperod/AI-self-driving-race-car-Deep-Reinforcement-Learning
+AI-Driver-CNN-DeepLearning-PyTorch,PyTorch CNN for end-to-end self-driving,AI & Machine Learning,,https://github.com/milsun/AI-Driver-CNN-DeepLearning-PyTorch
+car-racing-ppo,PPO implementation for OpenAI Gym CarRacing-v0,AI & Machine Learning,,https://github.com/elsheikh21/car-racing-ppo
+DDPG-TORCS,Reinforcement learning for driving in TORCS using DDPG,AI & Machine Learning,,https://github.com/xianhong/DDPG-TORCS
+Deep-Reinforcement-Learning-Algorithms,32 DRL projects including CarRacing with PPO DDPG TD3 SAC,AI & Machine Learning,,https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms
+cleanrl,High-quality single file DRL implementations (PPO DQN DDPG TD3 SAC),AI & Machine Learning,,https://github.com/vwxyzjn/cleanrl
+race-simulation,Race simulation for pit stop strategy determination,AI & Machine Learning,,https://github.com/TUMFTM/race-simulation
+Lap_Time_Simulation,Lap time simulation with plotting and replay GUI,AI & Machine Learning,,https://github.com/baltic-racing/Lap_Time_Simulation
 OpenFFBoard,Open source universal force feedback interface for DIY steering wheels,Hardware & Force Feedback,,https://github.com/Ultrawipf/OpenFFBoard
 oversteer,Steering wheel manager and FFB configurator for GNU/Linux,Hardware & Force Feedback,,https://github.com/berarma/oversteer
 new-lg4ff,Improved Linux kernel module for Logitech racing wheels,Hardware & Force Feedback,,https://github.com/berarma/new-lg4ff
 ffbtools,Force feedback testing and debugging tools for GNU/Linux,Hardware & Force Feedback,,https://github.com/berarma/ffbtools
 hid-fanatecff,Linux kernel driver for Fanatec wheel bases,Hardware & Force Feedback,,https://github.com/gotzl/hid-fanatecff
 hid-tmff2,Linux kernel driver for Thrustmaster T300/T248/TS-XW wheels,Hardware & Force Feedback,,https://github.com/Kimplul/hid-tmff2
-CrewChiefV4,Race engineer and spotter voice application for sim racing,Hardware & Force Feedback,,https://github.com/mrbelowski/CrewChiefV4
-crew-chief-autovoicepack,Generate CrewChief voice packs using AI speech synthesis,Hardware & Force Feedback,,https://github.com/cktlco/crew-chief-autovoicepack
+OpenSourceSimWheelESP32,Open source wireless steering wheel/button box for ESP32,Hardware & Force Feedback,,https://github.com/afpineda/OpenSourceSimWheelESP32
+Sim-Racing-Arduino,Arduino library for sim racing peripherals,Hardware & Force Feedback,,https://github.com/dmadison/Sim-Racing-Arduino
+SimFeedback-AC-Servo,SimFeedback AC Servo motion simulator platform,DIY Hardware,Motion,https://github.com/SimFeedback/SimFeedback-AC-Servo
+Motion-Master,Arduino motion simulator control with real-time telemetry,DIY Hardware,Motion,https://github.com/colemaring/Motion-Master
+DIY-Sim-Racing-Active-Pedal,DIY Simucube-style active pedal prototype,DIY Hardware,Pedals,https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal
+SimPedals,Laser cut 3D printed hall effect and load cell pedal design,DIY Hardware,Pedals,https://github.com/dmcke5/SimPedals
+USB-Sim-Racing-Pedals-with-Load-Cell,Arduino load cell brake pedal controller,DIY Hardware,Pedals,https://github.com/MauriceRowe/USB-Sim-Racing-Pedals-with-Load-Cell
+DIY-Sim-Racing-FFB-Pedal-Mechanical-Design,Force feedback pedal mechanical design with servo,DIY Hardware,Pedals,https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal-Mechanical-Design
+pedal-arduino,Arduino simracing pedals with GUI calibration,DIY Hardware,Pedals,https://github.com/vospascal/pedal-arduino
+OpenSimPedals,Open source sim racing pedals electronics and firmware,DIY Hardware,Pedals,https://github.com/manoukianv/OpenSimPedals
+DIYLoadCellSimRacingPedals,Arduino load cell sim racing pedals scripts,DIY Hardware,Pedals,https://github.com/tbattz/DIYLoadCellSimRacingPedals
+Button-Box,DIY button box for sim racing with Arduino Pro Micro,DIY Hardware,Button Box,https://github.com/djpr1me/Button-Box
+arduino-sim-racing-button-box,32 function Arduino button box for sim racing,DIY Hardware,Button Box,https://github.com/germanrcuriel/arduino-sim-racing-button-box
+button-box,Simracing button box on Teensy 3.2 with SimHub LCD,DIY Hardware,Button Box,https://github.com/sobocinski/button-box
+TM1638Dash,Sim racing dashboard for Arduino with TM1638 LED module,DIY Hardware,Dashboard,https://github.com/functionreturnfunction/TM1638Dash
+simdisplay,Arduino simracing dashboard for ACC with real-time telemetry,DIY Hardware,Dashboard,https://github.com/fenegroni/simdisplay
+Assetto-LMP-HUD,Python HUD for Assetto Corsa with real-time racing data,DIY Hardware,Dashboard,https://github.com/Sohaib-Akhtar/Assetto-LMP-HUD
+pyracedash,External Python HUD for Project CARS on Raspberry Pi,DIY Hardware,Dashboard,https://github.com/kuathadianto/pyracedash
+bonogps,ESP32 GPS lap timer for track use with BLE/WiFi,DIY Hardware,GPS Timer,https://github.com/renatobo/bonogps
+gps-tracker,Homebrew GPS tracker and lap timer,DIY Hardware,GPS Timer,https://github.com/gotzl/gps-tracker
+lap-timer,GPS lap timer with start coordinate detection,DIY Hardware,GPS Timer,https://github.com/broncoracing/lap-timer
+CrewChiefV4,Race engineer and spotter voice application for sim racing,Voice & Spotter,,https://github.com/mrbelowski/CrewChiefV4
+crew-chief-autovoicepack,Generate CrewChief voice packs using AI speech synthesis,Voice & Spotter,,https://github.com/cktlco/crew-chief-autovoicepack
+Simulator-Controller,Modular automation framework for sim racing with button boxes,Voice & Spotter,,https://github.com/SeriousOldMan/Simulator-Controller
+iRLeagueManager,Standalone tool for iRacing league scoring and statistics,League Management,,https://github.com/SSchulze1989/iRLeagueManager
+iRLeagueManager.Web,iRacing league scoring results hosting and stewarding,League Management,,https://github.com/SSchulze1989/iRLeagueManager.Web
+iRacingReplayOverlay.net,Convert iRacing replays to edited videos with overlays,League Management,,https://github.com/vipoo/iRacingReplayOverlay.net
+SIMRacingApps,Web server hosting 50+ browser-based sim racing apps,Streaming & Overlays,,https://github.com/SIMRacingApps/SIMRacingApps
+Teapots-Tools_Wheel-Stream-Overlay,Customizable racing wheel overlay for OBS,Streaming & Overlays,,https://github.com/TiltedTeapot/Teapots-Tools_Wheel-Stream-Overlay
+R3E_SimHub_Overlays,SimHub overlays for RaceRoom Racing Experience,Streaming & Overlays,,https://github.com/YvesCieters/R3E_SimHub_Overlays
+vrperfkit,VR Performance Toolkit for foveated rendering,VR & Motion,,https://github.com/fholger/vrperfkit
+OpenXRProvider,Simplified OpenXR runtime access for VR applications,VR & Motion,,https://github.com/1runeberg/OpenXRProvider
+actools,Content Manager alternative launcher and utils for Assetto Corsa,Game Tools,Assetto Corsa,https://github.com/gro-ove/actools
 AC-Telemetry,Customizable Python telemetry toolkit for Assetto Corsa,Game Tools,Assetto Corsa,https://github.com/alvaro-cs02/AC-Telemetry
 ac-traces,Real-time driver input telemetry app for Assetto Corsa,Game Tools,Assetto Corsa,https://github.com/frits-z/ac-traces
-acc-hotlap-run,ACC hotlap telemetry viewer and analysis tool,Game Tools,Assetto Corsa,https://github.com/JonathanBurgworx/acc-hotlap-run
-BeamNG.gym,Reinforcement learning environment for BeamNG.tech,Game Tools,BeamNG,https://github.com/BeamNG/BeamNG.gym
+AssettoCorsaModManager,Simple mod manager for Assetto Corsa,Game Tools,Assetto Corsa,https://github.com/ramonmeza/AssettoCorsaModManager
+SetupShare,App for sharing setups within Assetto Corsa sessions,Game Tools,Assetto Corsa,https://github.com/albertowd/SetupShare
+accservermanager,Django-based web server manager for ACC,Game Tools,Assetto Corsa,https://github.com/gotzl/accservermanager
+accweb,ACC server management tool via web interface (Go),Game Tools,Assetto Corsa,https://github.com/assetto-corsa-web/accweb
+ACC-Server-Creation-Tool,Python tkinter GUI for ACC server JSON creation,Game Tools,Assetto Corsa,https://github.com/MegenisJ/ACC-Server-Creation-Tool
+acc-results,Parser for ACC server result files,Game Tools,Assetto Corsa,https://github.com/lonemeow/acc-results
+PyAccEngineer,Remote pit stop strategy and telemetry for ACC,Game Tools,Assetto Corsa,https://github.com/rrennoir/PyAccEngineer
 Blender-JBeam-Editor,Blender plugin to import/modify/export JBeam for BeamNG,Game Tools,BeamNG,https://github.com/BeamNG/Blender-JBeam-Editor
-dirt-rally-time-recorder,Stage time tracker and browser for DiRT Rally 1 and 2,Game Tools,DiRT Rally,https://github.com/soong-construction/dirt-rally-time-recorder
-f1-24-telemetry,Python telemetry implementation for EA F1 24 game,Game Tools,F1 Game,https://github.com/xavierdubuc/f1-24-telemetry
-f1-circuits,Formula 1 circuits in GeoJSON format,Datasets & Research,,https://github.com/bacinger/f1-circuits
+ts-fmod-plugin,FMOD sound mod plugin for ETS2/ATS in TruckersMP,Game Tools,Truck Simulator,https://github.com/dariowouters/ts-fmod-plugin
+ETS2TelemetryProvider,ETS2 telemetry provider for SimFeedback/SFX-100,Game Tools,Truck Simulator,https://github.com/ashupp/ETS2TelemetryProvider
+sim-racing-tools,Python tools collection for sim racing,Setup & Strategy,,https://github.com/zephyrj/sim-racing-tools
+iracing_fuel_calculator,Python fuel calculator for iRacing endurance races,Setup & Strategy,,https://github.com/jadavison91/iracing_fuel_calculator
+FuelStrat,Fuel and pit strategy calculator for ACC,Setup & Strategy,,https://github.com/LabuzPawel/FuelStrat
 procedural-tracks,Procedural race track generation in Python,Track Tools,,https://github.com/juangallostra/procedural-tracks
 circuit-generator,Random generator of racing circuit layouts,Track Tools,,https://github.com/adriantormos/circuit-generator
+F1-Track-Gen,Blender add-on to generate F1 tracks from positional data,Track Tools,,https://github.com/VKG5/F1-Track-Gen
+RacingLineGenerator,Racing line generation for tracks in Blender using genetic algorithms,Track Tools,,https://github.com/ShravanK55/RacingLineGenerator
+racetrack-database,Center lines track widths and race lines for 20+ race tracks,Track Tools,,https://github.com/TUMFTM/racetrack-database
+f1-circuits,Formula 1 circuits in GeoJSON format,Datasets & Research,,https://github.com/bacinger/f1-circuits
+RACECAR_DATA,Multi-modal sensor data from Indy autonomous race cars,Datasets & Research,,https://github.com/linklab-uva/RACECAR_DATA
+us-car-models-data,Comprehensive dataset of US car models 1992-2023,Datasets & Research,,https://github.com/abhionlyone/us-car-models-data
+f1-timing-database,Formula 1 timing database from TUMFTM,Datasets & Research,,https://github.com/TUMFTM/f1-timing-database
+awesome-raceroom-racing-experience,Curated list of RaceRoom Racing Experience resources,Datasets & Research,,https://github.com/LaundroMat/awesome-raceroom-racing-experience
+open-source-games,List of open source games including racing games,Datasets & Research,,https://github.com/bobeff/open-source-games
+Pacejka-tire-model,Python scripts for Pacejka Magic Formula tire modeling,Vehicle Dynamics,,https://github.com/JyNing04/Pacejka-tire-model
+car-physics-pacejka,Python vehicle dynamics with Pacejka tire model for simulation,Vehicle Dynamics,,https://github.com/svenlr/car-physics-pacejka
+tire-slip-simulator,Python tool to generate tire slip datasets from Pacejka formula,Vehicle Dynamics,,https://github.com/colin-ai/tire-slip-simulator
+EV_sim,Electric vehicle dynamics simulation in Python,Vehicle Dynamics,,https://github.com/m0in92/EV_sim
+VehicleNoiseSynthesizer,Open source Unity audio addon for vehicle sound simulation,Audio & Sound,,https://github.com/ATG-Simulator/VehicleNoiseSynthesizer
+gta-fmod,GTA SA FMOD mod for realistic car engine sounds,Audio & Sound,,https://github.com/chrystianfarias/gta-fmod
+MouseShifter,Use mouse as H-pattern gear shifter in racing games,Input Tools,,https://github.com/arnofrxdd/MouseShifter
+Project-Cars-2-Liveries,Custom liveries repository for Project Cars 2,Liveries & Skins,,https://github.com/kurgol/Project-Cars-2
+Unity3D-Mario-Kart-Racing-Game,3D Mario Kart game in Unity with items and anti-gravity,Kart Racing,,https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game
+super-mario-kart,Super Mario Kart clone using C++ with SFML,Kart Racing,,https://github.com/vmbatlle/super-mario-kart
+YAMKC,Yet Another Mario Kart Clone using OpenGL,Kart Racing,,https://github.com/PabloMK7/YAMKC
+3d-car-racing-game-unity,3D car racing game in Unity with customizable cars,Game Development,,https://github.com/ramshabilal/3d-car-racing-game-unity
+3D-Models,3DRacers 3D models and STLs for racing,Game Development,,https://github.com/3DRacers/3D-Models
+ReHUD,Custom overlay for RaceRoom Racing Experience built with Electron,Streaming & Overlays,,https://github.com/Yuvix25/ReHUD
+SpaceMonkey,WRC telemetry callback interface with SimFeedback integration,Telemetry & Data Analysis,WRC Rally,https://github.com/PHARTGAMES/SpaceMonkey
+GT7Proxy,Gran Turismo 7 UDP proxy for XSim motion,Telemetry & Data Analysis,Gran Turismo,https://github.com/vthinsel/GT7Proxy
+f1tenth-RL,DQN with lidar data on F1Tenth real car or simulator,AI & Machine Learning,,https://github.com/MichaelBosello/f1tenth-RL
+F1Tenth-RL-PPO,F1Tenth Gym with PPO reinforcement learning,AI & Machine Learning,,https://github.com/FT-Autonomous/F1Tenth-RL
+Platooning-F1Tenth,F1Tenth platooning computer vision and RL,AI & Machine Learning,,https://github.com/pmusau17/Platooning-F1Tenth
+laptime-simulation,Lap time simulation based on optimal racing lines,AI & Machine Learning,,https://github.com/TUMFTM/laptime-simulation
+AutonomousVehicleSimulation,Train autonomous vehicles in SUMO with Flow and Ray/RLlib,AI & Machine Learning,,https://github.com/rlew631/AutonomousVehicleSimulation
+pedsumo,Python library extending SUMO for AV-pedestrian interaction,AI & Machine Learning,,https://github.com/M-Colley/pedsumo
+self-driving-car-simulator,Self driving car with Keras/TensorFlow and Udacity simulator,AI & Machine Learning,,https://github.com/benjaminykim/self-driving-car-simulator
+Neural-Network-Car-Racing,2D simulation where cars learn to drive using neural networks,AI & Machine Learning,,https://github.com/Gregman-js/Neural-Network-Car-Racing
+reinforcement-learning-car,Q-learning to teach a car to avoid obstacles,AI & Machine Learning,,https://github.com/harvitronix/reinforcement-learning-car
+AI-Racecars,2D race car simulation with neural networks and natural selection,AI & Machine Learning,,https://github.com/antonckoenig/AI-Racecars
+Reinforcement-Learning-on-TORCS,Self-driving car agent using Actor-Critic on TORCS,AI & Machine Learning,,https://github.com/atul-dhamija/Reinforcement-Learning-on-TORCS
+ACServerManager,Django project for managing Assetto Corsa servers,Game Tools,Assetto Corsa,https://github.com/PeteTheAutomator/ACServerManager
+ACAppTutorial,Tutorial for Assetto Corsa Python application development,Game Tools,Assetto Corsa,https://github.com/ckendell/ACAppTutorial
+pc2-telemetry,Java telemetry analysis tool for Project Cars 2,Telemetry & Data Analysis,Project Cars,https://github.com/ralfhergert/pc2-telemetry
+project-cars-2-udp,Project Cars 2 UDP parser for ESP32/ESP8266,Telemetry & Data Analysis,Project Cars,https://github.com/MacManley/project-cars-2-udp
+pcars,Python client for original Project CARS UDP data stream,Telemetry & Data Analysis,Project Cars,https://github.com/jamesremuscat/pcars
+ets2-python-telemetry,Python telemetry reader for ETS2 SDK plugin,Telemetry & Data Analysis,Truck Simulator,https://github.com/Madricas/ets2-python-telemetry
+fh5_telemetry,Forza Horizon 5 telemetry with Python,Telemetry & Data Analysis,Forza,https://github.com/xxr0ss/fh5_telemetry
+ForzaTelemetryToExcel,API for logging FH5 telemetry to Excel,Telemetry & Data Analysis,Forza,https://github.com/SantCineva/ForzaTelemetryToExcel
+forza-telemetry-dash,Real-time telemetry dashboard for Forza Horizon 5,Telemetry & Data Analysis,Forza,https://github.com/kekn9ne/forza-telemetry-dash
+forza-data-web,Forza real-time telemetry receiver web application,Telemetry & Data Analysis,Forza,https://github.com/geeooff/forza-data-web
+SIMRacingAppsWebContent,Web-based apps and widgets for SIMRacingApps,Streaming & Overlays,,https://github.com/SIMRacingApps/SIMRacingAppsWebContent
+SIMRacingAppsElectron,Electron app launcher for SIMRacingApps,Streaming & Overlays,,https://github.com/SIMRacingApps/SIMRacingAppsElectron
+OpenRaceDirector,Race director tools for open sim racing,League Management,,https://github.com/OpenSimTools/RaceDirector
+simhub-gaps-overlay,SimHub relative leaderboard overlay for ACC,Streaming & Overlays,,https://github.com/serek4/simhub-gaps-overlay
+pygauge,Python/Arduino TM1638 display for DiRT Rally telemetry,DIY Hardware,Dashboard,https://github.com/Billiam/pygauge
+dirt-rally-telemetry-dashboard,Simple telemetry dashboard for DiRT Rally 2.0,Telemetry & Data Analysis,Dirt Rally,https://github.com/gabrielgouv/dirt-rally-telemetry-dashboard
+openFFB,Use consumer FFB wheels on arcade racing cabs,Hardware & Force Feedback,,https://github.com/Fredobedo/openFFB
+t150_driver,Linux driver for Thrustmaster T150/TMX wheels,Hardware & Force Feedback,,https://github.com/scarburato/t150_driver
+pysumo,Python module for running SUMO traffic simulations,Simulation Platforms,,https://github.com/bstriner/pysumo
+panda3d-simplepbr,Simple physically-based rendering for Panda3D games,Game Development,,https://github.com/Moguri/panda3d-simplepbr
+racecar-gym,Gym environment for miniature racecar using pybullet,AI & Machine Learning,,https://github.com/axelbr/racecar_gym
+DDPG-Keras-Torcs,Deep Deterministic Policy Gradient for TORCS with Keras,AI & Machine Learning,,https://github.com/yanpanlau/DDPG-Keras-Torcs
+formula1-telemetry,Java library for F1 game UDP telemetry parsing,Telemetry & Data Analysis,Formula 1,https://github.com/ppatierno/formula1-telemetry
+f1-telemetry-client,Node UDP client for F1 game telemetry,Telemetry & Data Analysis,Formula 1,https://github.com/racehub-io/f1-telemetry-client
+f122_telemetry_parser,Python CLI tool for F1 22 UDP telemetry parsing,Telemetry & Data Analysis,Formula 1,https://github.com/kens-git/f122_telemetry_parser
+rfactortools,Python tools for rFactor modding and conversion,Game Tools,rFactor,https://github.com/Grumbel/rfactortools
+rf2_video_settings,Create rFactor 2 video setting presets,Game Tools,rFactor,https://github.com/tappi287/rf2_video_settings
+ACC-Server-Control,Management platform for ACC dedicated servers (Vue/.NET),Game Tools,Assetto Corsa,https://github.com/StarkBotha/ACC-Server-Control
+acc-server-manager-api,API for managing multiple ACC server instances,Game Tools,Assetto Corsa,https://github.com/fre-sch/acc-server-manager-api
