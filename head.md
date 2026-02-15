@@ -29,4 +29,8 @@ A curated list of open-source sim racing tools, telemetry analyzers, simulation 
 - [Liveries & Skins](#liveries--skins)
 - [Kart Racing](#kart-racing)
 - [Game Development](#game-development)
+- [Linux Wheel Drivers](#linux-wheel-drivers)
+- [Linux Gaming & Proton](#linux-gaming--proton)
+- [Linux Input & Calibration](#linux-input--calibration)
+- [Linux Performance](#linux-performance)
 
