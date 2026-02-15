@@ -1,4 +1,4 @@
-# Awesome Sim Racing
+# Awesome Car Simulation
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
